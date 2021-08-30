@@ -10,7 +10,7 @@ Qual é a quantidade máxima de dinheiro que o governo de Byteland pode economiz
 
 ## Entrada
 
-A entrada contém vários casos de teste. Cada caso de teste inicia com dois números m (1 ≤ **m** ≤ 200000) e n ( **m** - 1 ≤ **n** ≤ 200000), que são o número de junções de Byteland e o número de estradas em Byteland, respectivamente. Seguem **n** conjuntos de três valores inteiros, **x**, **y** e **z**, especificando qual será a estrada bidirecional entre **x** e **y** com z metros (0 ≤ **x**, **y** < **m** e ** x** ≠ **y** )
+A entrada contém vários casos de teste. Cada caso de teste inicia com dois números m (1 ≤ **m** ≤ 200000) e n ( **m** - 1 ≤ **n** ≤ 200000), que são o número de junções de Byteland e o número de estradas em Byteland, respectivamente. Seguem **n** conjuntos de três valores inteiros, **x**, **y** e **z**, especificando qual será a estrada bidirecional entre **x** e **y** com z metros (0 ≤ **x**, **y** < **m** e **x** ≠ **y** )
 
 ## Saída
 
